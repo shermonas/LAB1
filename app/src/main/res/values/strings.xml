@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">LAB1</string>
     <string name="change_label_text">Change label text</string>
+    <string name="button">Button</string>
+    <string name="change_text_color">Change Text Color</string>
 </resources>
